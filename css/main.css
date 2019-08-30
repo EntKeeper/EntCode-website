@@ -1,0 +1,62 @@
+html, body {
+    margin: 0px;
+    background-color: white;
+    font: normal 18px 'Comic Sans MS';
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+}
+
+#socialEmp {
+  transform: scale(1.5,1.5);
+  color: #660033;
+}
+
+#ourGoal {
+  width: 100%;
+  height: 100%;
+}
+
+#socialFooter {
+  transform: scale(1,1);
+  color: white;
+}
+
+#contactUs {
+  font: normal 36px 'Comic Sans MS', cursive;
+  text-align: center;
+  background-color: #E0E6FF;
+  font-size: 20px;
+}
+
+#employees {
+  background-color:  #E0E6FF;
+}
+
+.fa {
+  transform: scale(4,4);
+  color:  #660033;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+.container-fluid img {
+  width: 200px;
+  height: 200px;
+}
+
+.container img {
+  width: 100%;
+  height: 500px;
+}
+
+.avatar img {
+  width: 350px;
+  height: 350px;
+}
